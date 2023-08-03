@@ -35,13 +35,14 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<!--  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
-![alt-text-2](https://github-readme-stats.vercel.app/api?username=minhnhatle104&show_icons=true&locale=en&theme=tokyonight)
+[alt-text-2](https://github-readme-stats.vercel.app/api?username=minhnhatle104&show_icons=true&locale=en&theme=tokyonight)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhnhatle104&theme=tokyonight" alt="minhnhatle104" /></p>
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=minhnhatle104&theme=dracula" alt="minhnhatle104" /></p>
+
 <p align="left"> <a href="https://twitter.com/anani_zineb" target="blank"><img src="https://img.shields.io/twitter/follow/anani_zineb?logo=twitter&style=for-the-badge" alt="anani_zineb" /></a> </p>
+--> 
 
 
